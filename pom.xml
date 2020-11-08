@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.always</groupId>
-	<artifactId>blog</artifactId>
+	<artifactId>Blog</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>blog</name>
 	<description>Always's blog</description>
